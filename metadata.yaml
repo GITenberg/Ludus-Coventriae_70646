@@ -1,0 +1,40 @@
+_repo: Ludus-Coventriae_70646
+_version: 0.0.1
+alternative_title: Ludus Coventriae
+creator:
+  editor:
+    agent_name: Halliwell-Phillipps, J. O. (James Orchard)
+    aliases:
+    - Halliwell, J. O. (James Orchard)
+    - Halliwell, James Orchard
+    - Halliwell-Phillipps, James Orchard
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '8746'
+    url: http://www.gutenberg.org/2009/agents/8746
+    wikipedia: https://en.wikipedia.org/wiki/James_Halliwell-Phillipps
+description: ''
+gutenberg_issued: '2023-04-26'
+identifiers:
+  gutenberg: '70646'
+  lccn: '16013779'
+language: en
+pgterms:marc905: 20230424022033halliwell
+pgterms:marc906: '1841'
+pgterms:marc907: GB
+production_note: Jonathan Ingram and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bThe Shakespeare Society, $c1841.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Shakespeare society. Publications, no. 4.
+subjects:
+- !lcsh 'Mysteries and miracle-plays, English'
+- !lcsh 'English drama -- To 1500'
+- !lcsh 'English language -- Middle English, 1100-1500 -- Glossaries, vocabularies,
+  etc.'
+- !lcc 'PR'
+- GITenberg
+title: 'Ludus Coventriæ : $b A collection of mysteries, formerly represented at Coventry
+  on the feast of Corpus Christi'
+url: http://www.gutenberg.org/ebooks/70646
