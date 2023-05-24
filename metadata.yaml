@@ -1,6 +1,9 @@
 _repo: Ludus-Coventriae_70646
 _version: 0.1.0
 alternative_title: Ludus Coventriae
+covers:
+- cover_type: archival
+  image_path: 70646-h/images/cover.jpg
 creator:
   editor:
     agent_name: Halliwell-Phillipps, J. O. (James Orchard)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8746
     wikipedia: https://en.wikipedia.org/wiki/James_Halliwell-Phillipps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70646#Ludus-Coventriae
 gutenberg_issued: '2023-04-26'
 identifiers:
   gutenberg: '70646'
